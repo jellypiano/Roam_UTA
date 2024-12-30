@@ -1,4 +1,4 @@
-# Java 2D Game Project
+# Java 2D Game Project ( In development ⚙️)
 ## Project Overview
 This project is a 2D, 16-bit style exploration game built in Java. The main objective is to roam a pixel-art map inspired by a real-world location (e.g., a section of a university campus). Players can navigate the environment, interact with objects, and encounter simple NPCs.
 
